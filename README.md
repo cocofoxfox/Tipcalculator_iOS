@@ -57,7 +57,6 @@ Here's a walkthrough of implemented user stories:
 
  ![](Tipcalculator_iOS.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
  
 
